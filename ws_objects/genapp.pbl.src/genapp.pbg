@@ -4,6 +4,7 @@
 @end;
 @begin Objects 
  "genapp.sra" "genapp.pbl";
+ "p_genapp_exe.srj" "genapp.pbl";
  "m_genapp_frame.srm" "genapp.pbl";
  "m_genapp_sheet.srm" "genapp.pbl";
  "n_genapp_connectservice.sru" "genapp.pbl";

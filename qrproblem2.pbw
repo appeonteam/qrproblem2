@@ -4,5 +4,5 @@ Save Format v3.0(19990112)
  1 "genapp.pbt";
  2 "webservice.pbt";
 @end;
-DefaultTarget "webservice.pbt";
-DefaultRemoteTarget "webservice.pbt";
+DefaultTarget "qrproblem.pbt";
+DefaultRemoteTarget "qrproblem.pbt";
