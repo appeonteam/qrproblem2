@@ -4,13 +4,18 @@ EXE:qrproblem.exe,,0,0,1
 CMP:0,0,0,2,0,0,1
 COM:Appeon
 DES:Appeon Product File
-CPY:
+CPY:2018
 PRD:PowerBuilder Enterprise Series
 PVS:1.0.0.1
 PVN:1,0,0,1
 FVS:1.0.0.1
 FVN:1,0,0,1
 MAN:0,asInvoker,0
-PBD:qrproblem.pbl,,0
-PBD:11.pbl,,0
-PBD:22.pbl,,0
+PBD:qrproblem.pbl,,1
+PBD:11.pbl,,1
+PBD:22.pbl,,1
+OBJ:D:\PB171\GIT\QRproblem2\qrproblem.pbl,dw_main,d
+OBJ:D:\PB171\GIT\QRproblem2\qrproblem.pbl,w_qrproblem_main,w
+OBJ:D:\PB171\GIT\QRproblem2\qrproblem.pbl,w_qrproblem_about,w
+OBJ:D:\PB171\GIT\QRproblem2\qrproblem.pbl,qrproblem,a
+OBJ:D:\PB171\GIT\QRproblem2\qrproblem.pbl,m_qrproblem_main,m
