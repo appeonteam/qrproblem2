@@ -6,5 +6,5 @@ RunProjectName "p_webservice";
 RunProjectLib "webservice.pbl";
 appname "qrproblem";
 applib "qrproblem.pbl";
-LibList "qrproblem.pbl;11.pbl;22.pbl;33.pbl";
+LibList "qrproblem.pbl;11.pbl";
 type "pb";
